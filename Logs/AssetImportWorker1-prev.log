@@ -1,0 +1,390 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/respin/6000.2.7f1-2eb0c79396db' branch; Version is '6000.2.7f2 (2b518236b676) revision 2838914'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Geanne" at "2025-10-22T00:36:14.9747347Z"
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7365 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-10-22T00:36:14Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Geanne/Reeling Back Time
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64861
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Geanne/Reeling Back Time
+C:/Users/Geanne/Reeling Back Time
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12476]  Target information:
+
+Player connection [12476]  * "[IP] 192.168.41.166 [Port] 0 [Flags] 2 [Guid] 1195538301 [EditorId] 1195538301 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-GCE4KVL5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [12476] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [12476] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 20008, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.3+a4e98f1
+  Session Id:              cd8a8d5329b64cccbe74303bf073e85d
+  Correlation Id:          b3340cfa96b81360c8fe15b75c22cc28
+  External correlation Id: 4472206425092905657
+  Machine Id:              YmptUPIgy2jSU+6oDAZmudhpIic=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Geanne" (connect: 0.00s, validation: 0.03s, handshake: 0.40s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Geanne-notifications" at "2025-10-22T00:36:15.4129563Z"
+[Licensing::Module] Licensing Background thread has ended after 0.44s
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 562.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.7f2 (2b518236b676)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Geanne/Reeling Back Time/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3964 MB
+    Driver:   32.0.15.8157
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56268
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: SC-8PRG-86G8-J7GK-G573-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2025-12-03T17:00:00Z
+[Licensing::Module] License group:
+  Id: 18968171573312-geannereignfreo-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2025-11-27T17:00:00Z
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.014185 seconds.
+- Loaded All Assemblies, in  3.551 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 669 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.913 seconds
+Domain Reload Profiling: 5454ms
+	BeginReloadAssembly (1526ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (93ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (145ms)
+	LoadAllAssembliesAndSetupDomain (1748ms)
+		LoadAssemblies (1479ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1739ms)
+			TypeCache.Refresh (1735ms)
+				TypeCache.ScanAssembly (1695ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1913ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1780ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (947ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (229ms)
+			ProcessInitializeOnLoadAttributes (403ms)
+			ProcessInitializeOnLoadMethodAttributes (192ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: SC-8PRG-86G8-J7GK-G573-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2025-12-03T17:00:00Z
+[Licensing::Module] License group:
+  Id: 18968171573312-geannereignfreo-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2025-11-27T17:00:00Z
+- Loaded All Assemblies, in  9.859 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 122.63 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.532 seconds
+Domain Reload Profiling: 16337ms
+	BeginReloadAssembly (534ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (83ms)
+	RebuildCommonClasses (145ms)
+	RebuildNativeTypeToScriptingClass (39ms)
+	initialDomainReloadingComplete (129ms)
+	LoadAllAssembliesAndSetupDomain (8956ms)
+		LoadAssemblies (7941ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1315ms)
+			TypeCache.Refresh (903ms)
+				TypeCache.ScanAssembly (846ms)
+			BuildScriptInfoCaches (362ms)
+			ResolveRequiredComponents (39ms)
+	FinalizeReload (6533ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (5756ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (648ms)
+			ProcessInitializeOnLoadAttributes (4375ms)
+			ProcessInitializeOnLoadMethodAttributes (668ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 7.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7174 unused Assets / (4.6 MB). Loaded Objects now: 7908.
+Memory consumption went from 142.3 MB to 137.7 MB.
+Total: 28.782900 ms (FindLiveObjects: 3.360400 ms CreateObjectMapping: 2.406100 ms MarkObjects: 17.115200 ms  DeleteObjects: 5.898400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3282.839295 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(3590b91b4603b465dbb4216d601bff33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(3590b91b4603b465dbb4216d601bff33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a30c1cbe553483e8064616ecfe8e1a0') in 0.1044755 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/URP Asset_Renderer.asset
+  artifactKey: Guid(2a0df874ea6643b4aa05d3388988105c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP Asset_Renderer.asset using Guid(2a0df874ea6643b4aa05d3388988105c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '727be8167d322f82d6f782f56a9dc689') in 1.7038582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.597727 seconds.
+  path: Assets/Assets/UI/1-Side-Bar.png
+  artifactKey: Guid(04b031126d2812e4589af3a5c43dffbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/1-Side-Bar.png using Guid(04b031126d2812e4589af3a5c43dffbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: SC-8PRG-86G8-J7GK-G573-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2025-12-03T17:00:00Z
+[Licensing::Module] License group:
+  Id: 18968171573312-geannereignfreo-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2025-11-27T17:00:00Z
+ -> (artifact id: '5fbb9b961dbc6e170df836f0271102d8') in 1.939857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001142 seconds.
+  path: Assets/Assets/UI/B_Bottom_Bar.png
+  artifactKey: Guid(c84e456fa2b4387448f55d47d0e7978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/B_Bottom_Bar.png using Guid(c84e456fa2b4387448f55d47d0e7978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7000ba5abbd4083524c86c4e8bcfec9') in 0.0700196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Assets/UI/7-Side-Bar.png
+  artifactKey: Guid(55c6015e95bae1c4799d9759c88c8f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/7-Side-Bar.png using Guid(55c6015e95bae1c4799d9759c88c8f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c989d54ef963936fbef42bc780508328') in 0.0615447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Assets/UI/RESUME_BUTTON.png
+  artifactKey: Guid(8d7df99fd70e5fd49b6fad4aeb89161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/RESUME_BUTTON.png using Guid(8d7df99fd70e5fd49b6fad4aeb89161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cea139876c6c6133458d8d72f50106f1') in 0.1123289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Assets/UI/4-Side-Bar.png
+  artifactKey: Guid(62bf0702a4d592340929a3753cd6a88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/4-Side-Bar.png using Guid(62bf0702a4d592340929a3753cd6a88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f2888067eb22d77b8f292786ff05cae') in 0.0502519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Assets/UI/START_BUTTON.png
+  artifactKey: Guid(029af2916a36d55459b6970e6c734a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/START_BUTTON.png using Guid(029af2916a36d55459b6970e6c734a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7a4c1fed7aeed6e33f2ebdeb7ac1035') in 0.0694023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/UI/PAUSE_BUTTON.png
+  artifactKey: Guid(d29e69aa075fe3c4fba2e5fd2df2fa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/PAUSE_BUTTON.png using Guid(d29e69aa075fe3c4fba2e5fd2df2fa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5acb608cd1c0bad54ebffa9b07f9e305') in 0.0560966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Assets/UI/PANEL.png
+  artifactKey: Guid(f2373f68ceacb22419157fcb7e104798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/PANEL.png using Guid(f2373f68ceacb22419157fcb7e104798) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddf5c4a88103609c491bb2f065a5a8de') in 0.0535336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Assets/UI/PLAYER_WITH_INVENTORY.png
+  artifactKey: Guid(0417b8ee95b4a2b449bf56964b54dca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/PLAYER_WITH_INVENTORY.png using Guid(0417b8ee95b4a2b449bf56964b54dca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dee741cab2fec639709a057f08b2bf8e') in 0.0579794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Assets/UI/E_Fill-Bar.png
+  artifactKey: Guid(a684a6ec1815b384c923d65ddb6e51da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/E_Fill-Bar.png using Guid(a684a6ec1815b384c923d65ddb6e51da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f3a4c1ea18286e9ea0eb00f6d54e3df') in 0.0528946 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Assets/UI/ReelingBackTimeLogo.png
+  artifactKey: Guid(a11f309c9bdafa847a4d8654e44d0f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/ReelingBackTimeLogo.png using Guid(a11f309c9bdafa847a4d8654e44d0f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1757c88480f5ca5b031f0189062c6f39') in 0.0631707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Assets/UI/Store_FishingRod.png
+  artifactKey: Guid(1c40da3e7ca570c4fa70bde144c3df7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/Store_FishingRod.png using Guid(1c40da3e7ca570c4fa70bde144c3df7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f57a0009d84cacc7a5c7fac6647336fb') in 0.0452697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Assets/UI/5-Side-Bar.png
+  artifactKey: Guid(5ff9d16eabc9ce04a910ff8f00e1e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/5-Side-Bar.png using Guid(5ff9d16eabc9ce04a910ff8f00e1e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcd0e59f6fd73109035508242e72b625') in 0.0451193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Assets/UI/Store_Trader.png
+  artifactKey: Guid(b62365214a7ef2144a74a2738e6e845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/Store_Trader.png using Guid(b62365214a7ef2144a74a2738e6e845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0fa9ce21807af20b7cd09ddc579817e2') in 0.0512264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Assets/UI/A_Top_Bar.png
+  artifactKey: Guid(b622008a38e32e842bdee6abf0f140e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/UI/A_Top_Bar.png using Guid(b622008a38e32e842bdee6abf0f140e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8797aaae79ad289b3eb3b1701a2538d') in 0.0428388 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
